@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: "#666",
     height: 40,
-    width: 300,
     marginTop: 20,
     marginHorizontal: 40,
     paddingHorizontal: 10,
